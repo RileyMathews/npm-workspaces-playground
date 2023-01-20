@@ -1,0 +1,6 @@
+{
+    "workspaceFolder": "/code",
+    "service": "dev",
+    "dockerComposeFile": "../docker-compose.yml",
+    "remoteUser": "docker"
+}

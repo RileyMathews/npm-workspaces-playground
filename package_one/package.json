@@ -1,0 +1,14 @@
+{
+  "name": "package_one",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "parcel build index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "parcel": "^2.8.3"
+  }
+}

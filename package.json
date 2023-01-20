@@ -1,0 +1,7 @@
+{
+    "name": "my-workspaces-powered-project",
+    "workspaces": [
+        "package_one",
+        "package_two"
+    ]
+}
